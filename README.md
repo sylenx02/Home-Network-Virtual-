@@ -1,0 +1,1 @@
+The goal of this project is to allow me to gain network device configuration experience with routers, switches and hosts. I also wanted to get experience with network design and IP Address scheme planning. This project will outline the steps that I used to complete and run my own home network (virtually).
